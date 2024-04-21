@@ -1,2 +1,2 @@
 # Sleep-Quality
-By comparing the performance of 6 different classifiers viz Naive Bayes, Decision Tree, Random Forest, Linear discriminant analysis, Quadratic discriminant analysis, and Multilayer Perceptron. The database used is the Sleep-EDF Database from the website of Physionet 
+The database used for this project is the Sleep-EDF Database from the website of Physionet consisting of 800 observations and 15 features. The performance of 6 different classifiers viz Naive Bayes, Decision Tree, Random Forest, Linear discriminant analysis, Quadratic discriminant analysis, and Multilayer Perceptron is compared along with test performance metrics found out for each class using the best number of features for that class. 
